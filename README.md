@@ -3,7 +3,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/mathlete22?style=social)](https://github.com/mathlete22)
 
-## 🙏 nomoshkar (pronounced naw-mo-shkar in bengali)
+## 🙏 nomoshkar (pronounced naw-mo-shkar in bangla)
 
 hi, i'm aniket (but why are you at this barren place?) and i'm a graduate student at chennai mathematical institute. recently i've been quite fond of writing everything in lowercase (maybe doing too much nlp preprocessing!). i hope i'm not offending anyone, if i am, well, be offended.
 
