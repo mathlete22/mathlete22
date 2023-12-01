@@ -7,7 +7,10 @@
 
 hi, i'm aniket (but why are you at this barren place?) and i'm a graduate student at chennai mathematical institute. recently i've been quite fond of writing everything in lowercase (maybe doing too much nlp preprocessing!). i hope i'm not offending anyone, if i am, well, be offended.
 
-some topics i'm currently interested in are: **theoretical machine learning & deep learning**, **computer vision**, **natural language processing**.
+some topics i'm currently interested in are: 
+1. **theoretical machine learning & deep learning**
+2. **computer vision**
+3. **natural language processing**
 
 in between occasional study sessions, i can be found at the football ground or on lichess or roaming around on my bicycle.
 
