@@ -1,4 +1,3 @@
-# sample readme page
 # mathlete22
 
 [![GitHub followers](https://img.shields.io/github/followers/mathlete22?style=social)](https://github.com/mathlete22)
