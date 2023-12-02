@@ -63,6 +63,7 @@ in between occasional study sessions, i can be found at the football ground or o
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathlete22&show_icons=true&theme=dark)
 
+
 <!--
 **mathlete22/mathlete22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -76,4 +77,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![](https://komarev.com/ghpvc/?username=mathlete22&color=yellow)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathlete22&hide_progress=true)
+
 -->
