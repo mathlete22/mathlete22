@@ -53,7 +53,7 @@ in between occasional study sessions, i can be found at the football ground or o
 
 
 
-### 🌱 i'm currently learning/reading some stuff about:
+### 🌱 i'm currently learning/reading about:
 
 - computer vision
 - theoretical ml & dl
