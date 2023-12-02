@@ -58,11 +58,10 @@ in between occasional study sessions, i can be found at the football ground or o
 - computer vision
 - theoretical ml & dl
 
-<!--
+
 ### 📈 noob github stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathlete22&show_icons=true&theme=dark)
--->
 
 <!--
 **mathlete22/mathlete22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
