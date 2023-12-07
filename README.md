@@ -59,6 +59,16 @@ in between occasional study sessions, i can be found at the football ground or o
 - theoretical ml & dl
 
 
+### december 2023
+### currently working on iploading most of my work in the last few months here. this includes:
+- my projects on computer vision, nlp
+- my projects on kaggle and other courses
+- code implementation of a few research papers
+- my assignments, presentations from cmi
+
+### in addition to these, i'm also working on the website
+
+
 ### 📈 noob github stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathlete22&show_icons=true&theme=dark)
